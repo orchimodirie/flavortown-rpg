@@ -9,6 +9,6 @@ int main(){
     Entity goblin("Spicy goblin", 50, 5);
 
     cout<<"A Wild "<< goblin.name <<" appears!" <<endl;
-    cout<<" It has "<<goblin.health << " HP." <<endl;
+    cout<<"It has "<<goblin.health << " HP." <<endl;
 }
 
